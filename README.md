@@ -1,2 +1,2 @@
 # C
-it just a little repository
+C--与C++的数据结构
